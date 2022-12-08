@@ -1,1 +1,1 @@
-
+bool lettera(char&a);
